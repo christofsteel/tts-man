@@ -30,7 +30,7 @@ Bundles the game `<Game>` and stores it as `<zipfile>`
 python tts-man.py install <zipfile>
 ```
 
-This is a WIP and does not work at the moment. To install a zipfile you have to manually extract the file to `~/.local/Tabletop Simulator/Mods/Workshop` and update your `~/.local/Tabletop Simulator/Mods/Workshop/WorkshopFileInfos.json`. See the `tts-man-<gameid>.json` file, that is included in an exported game.
+This is a WIP and does not work at the moment. To install a zipfile you have to manually extract the file to `~/.local/share/Tabletop Simulator/Mods/Workshop` and update your `~/.local/share/Tabletop Simulator/Mods/Workshop/WorkshopFileInfos.json`. See the `tts-man-<gameid>.json` file, that is included in an exported game.
 
 # License
 
