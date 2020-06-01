@@ -12,7 +12,7 @@ This script needs the Python library: `requests`
 python tts-man.py list
 ```
 
-Lists all available Mods
+Lists all available games
 
 ```
 python tts-man.py download <Game>
